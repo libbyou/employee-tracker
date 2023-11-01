@@ -44,9 +44,11 @@
   ## Usage
 
   Open your command line and type in the command 'node server.' A series of options will greet you, and using the up and down arrows on your keyboard, you may select the option you are interested in by pressing enter. Depending on what you have chosen, a table will appear for you to find the information you are looking for, or a further series of questions will appear that you will have to enter in order to complete your wanted task. When you are done, select the option "Quit" and the command line application will close.
+  
 
 
-https://github.com/libbyou/note-taker/assets/144481823/5ac2db85-04fc-4d8a-a4c1-7c3740d901cf
+https://github.com/libbyou/employee-tracker/assets/144481823/cd76dc26-5cba-44c7-b4bf-d0f342e0e449
+
 
 
 ![Video of Employee Tracker's Usage](https://drive.google.com/file/d/1etSytVewlw23Dm4TMaAaB0-9ioSObAA2/view?usp=sharing)
